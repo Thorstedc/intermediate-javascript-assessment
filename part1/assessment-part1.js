@@ -1,6 +1,6 @@
 // INTERMEDIATE JAVASCRIPT ASSESSMENT
 // PART 1
-
+var
 // *************
 // * PROBLEM 1 *
 // *************
